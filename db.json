@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "JS Fundamentals",
+      "author": "Cory House"
+    },
+    {
+      "id": 2,
+      "title": "Advanced React",
+      "author": "Cory House"
+    },
+    {
+      "id": 3,
+      "title": "Java",
+      "author": "Cory"
+    },
+    {
+      "id": 4,
+      "title": "Java",
+      "author": "Cory"
+    }
+  ]
+}
